@@ -1,6 +1,8 @@
 package com.explitech.fiata.common;
 
 public class ServiceObjectView {
+	
+	public static class ApiResultView{	};
 
 	public static class CommentView {	};
 	
